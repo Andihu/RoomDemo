@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="insert">插入</string>
+    <string name="update">更新</string>
+    <string name="delete">删除</string>
+    <string name="getall">获取</string>
+</resources>
